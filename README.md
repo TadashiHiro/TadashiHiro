@@ -1,4 +1,4 @@
-<h1 align="center"><strong>The Amazing Wizard, <a href="https://kamelorac-16b1a.web.app/" rel="nofollow">Tadashi Hiro</a>, Here!<strong></h1>
+<h1 align="center"><strong>The Amazing Wizard, Ace Mod, Here!<strong></h1>
 
 ## Frontend
 
