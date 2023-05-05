@@ -1,4 +1,4 @@
-<h1 align="center"><strong>The Amazing Wizard, Ace Mod, Here!<strong></h1>
+<h1 align="center"><strong>WELCOME! 👋<strong></h1>
 
 ## Frontend
 
