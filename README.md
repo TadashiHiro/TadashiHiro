@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Thank you for visiting! 👋<strong></h1>
+<h1 align="center"><strong>Thanks for your visit! 👋<strong></h1>
 
 ## Frontend
 
