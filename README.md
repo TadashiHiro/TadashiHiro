@@ -1,5 +1,6 @@
 <h1 align="center"><strong>Thanks for your visit! 👋<strong></h1>
-
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg4MDdlN2Q0NGFmNDMxZDFiZThiY2ZmYmI4NmFlNDVlMjZkZmQ0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+  
 ## Frontend
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
